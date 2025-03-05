@@ -7,7 +7,6 @@ predictions/
 *.mp4
 *.avi
 e_*
-.vscode
 ckpt
 preds
 evaluation/eval-*
@@ -147,3 +146,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+weights/
+local.env
+supervisely.env
+app_data/

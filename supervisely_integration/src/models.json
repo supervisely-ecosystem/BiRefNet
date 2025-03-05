@@ -1,0 +1,16 @@
+[
+    {
+        "Model": "BiRefNet",
+        "Runtime (ms)": 61.4,
+        "Params (MB)": 101,
+        "MACs (G)": 561,
+        "DIS-TEs HCE": 954,
+        "meta": {
+            "task_type": "salient object segmentation",
+            "model_name": "BiRefNet",
+            "model_files": {
+                "checkpoint": "/weights/BiRefNet"
+            }
+        }
+    }
+]
